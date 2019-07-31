@@ -1,11 +1,10 @@
 # SMU Masters of Science (Economics) Python Programming Workshop
+Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for Master of Science (Economics) students, in AY2019-2020. In this workshop, we will be going through fundamental programming concepts, aimed at helping students gain a basic understanding of programming for the MSc Economics course. 
+
+If there are any problems with the code, please send an email to bolin.ng.2018@phdecons.smu.edu.sg
 
 ## Introduction to Python Programming
 Information will be dissected using the Github README, as well as through email. Please download this Github repository on your local computer - we will be using Jupyter Notebooks to read the files.
-
-Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for AY2019-2020 for Master of Science (Economics) students. 
-
-If there are any problems with the code, please send an email to bolin.ng.2018@phdecons.smu.edu.sg
 
 ## Schedule for the Course
 | Lesson  |     Date     |     Time      |       Venue        |
@@ -27,5 +26,7 @@ The course outline is as follows:
 6. Advanced Topics in Programming
 
 ## Programs
-For this workshop, you are required to install the Anaconda program. You can find more information on how to download the program [here](https://docs.anaconda.com/anaconda/install/). We will be using Python 3.7; please refrain from downloading the Python 2.7 version.
+For this workshop, you are required to install the Anaconda program. The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X, and contains useful tools and libraries for data manipulation purposes. Throughout the duration of the workshop, we will be using Jupyter notebooks as our main IDE (Interactive Development Environment).
+
+You can find more information on how to download the program [here](https://docs.anaconda.com/anaconda/install/). We will be using Python 3.7; please refrain from downloading the Python 2.7 version.
 
