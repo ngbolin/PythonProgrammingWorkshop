@@ -1,4 +1,6 @@
-# Introduction to Python Programming
+# SMU Masters of Science (Economics) Python Programming Workshop
+
+## Introduction to Python Programming
 Information will be dissected using the Github README, as well as through email. Please download this Github repository on your local computer - we will be using Jupyter Notebooks to read the files.
 
 Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for AY2019-2020 for Master of Science (Economics) students. 
