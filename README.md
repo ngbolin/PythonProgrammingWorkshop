@@ -1,4 +1,6 @@
-Updated as at 31 Jul 2019, 17:47:45
+Updated as at 6 Aug 2019, 17:47:45
+---
+The iPython notebooks for Lesson 5 and 6 have been uploaded, and the corresponding datasets and images used for these 2 notebooks have also been updated.
 
 # SMU Masters of Science (Economics) Python Programming Workshop
 Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for Master of Science (Economics) students, in AY2019-2020. In this workshop, we will be going through fundamental programming concepts, aimed at helping students gain a basic understanding of programming for the MSc Economics course. 
