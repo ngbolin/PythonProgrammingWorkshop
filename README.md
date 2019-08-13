@@ -1,4 +1,4 @@
-Updated as at 6 Aug 2019, 17:47:45
+Updated as at 13 Aug 2019, 16:01:30
 ---
 The iPython notebooks for Lesson 5 and 6 have been uploaded, and the corresponding datasets and images used for these 2 notebooks have also been updated.
 
