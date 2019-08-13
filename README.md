@@ -11,13 +11,13 @@ If there are any problems with the code, please send an email to bolin.ng.2018@p
 Information will be dissected using the Github README, as well as through email. Please download this Github repository on your local computer - we will be using Jupyter Notebooks to read the files.
 
 ## Schedule for the Course
-| Lesson  |     Date     |     Time       |       Venue          | Course Schedule |
-|---------|--------------|----------------|----------------------|-----------------|
-|    1    |  24 Aug 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson 1,2    |
-|    2    |  31 Aug 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson 2,3    |
-|    3    |  07 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson 3,4    |
-|    4    |  14 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson 5      |
-|    5    |  21 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson 6      |
+| Lesson  |     Date     |     Time       |       Venue          |  Course Schedule  |
+|---------|--------------|----------------|----------------------|-------------------|
+|    1    |  24 Aug 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lessons 1, 2    |
+|    2    |  31 Aug 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lessons 2, 3    |
+|    3    |  07 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lessons 3, 4    |
+|    4    |  14 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson  5       |
+|    5    |  21 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson  6       |
 
 ## Course Outline
 The course outline is as follows:
