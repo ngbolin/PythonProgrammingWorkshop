@@ -20,14 +20,12 @@ Information will be dissected using the Github README, as well as through email.
 |    5    |  21 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson  6       |
 
 ## Course Outline
-The course outline is as follows:
-
-1. Introduction, Syntax, Operations, Data Types and Data Structures
+For AY2020-2021, the course outline will be as follows:
+1. Introduction and Motivation, Syntax, Operations, Data Types and Data Structures
 2. Loops, Conditional Statements, Functions and Classes
 3. Data Processing, Cleaning and Manipulation with Pandas and NumPy
 4. Data Plotting with Seaborn and Matplotlib
-5. Text Analysis, Regular Expressions and Algorithms
-6. Advanced Topics in Programming (Machine Learning)
+5. Algorithms
 
 ## Programs
 For this workshop, you are required to install the Anaconda program. The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X, and contains useful tools and libraries for data manipulation purposes. 
