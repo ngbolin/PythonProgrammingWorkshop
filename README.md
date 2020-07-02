@@ -1,9 +1,9 @@
 Updated as at 02 Jul 2020
 ---
-Updated Jupyter Notebooks for Lessons 1.
+Updated Jupyter Notebooks for Lessons 1 & 2.
 
 # SMU Masters of Science (Economics) Python Programming Workshop
-Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for Master of Science (Economics) students, in AY2019-2020. In this workshop, we will be going through fundamental programming concepts, aimed at helping students gain a basic understanding of programming for the MSc Economics course. 
+Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for Master of Science (Economics) students, in AY2020-2021. In this workshop, we will be going through fundamental programming concepts, aimed at helping students gain a basic understanding of programming for the MSc Economics course. 
 
 If there are any problems with the code, please send an email to bolin.ng.2018@phdecons.smu.edu.sg
 
@@ -13,11 +13,11 @@ Information will be dissected using the Github README, as well as through email.
 ## Schedule for the Course
 | Lesson  |     Date     |     Time       |       Venue          |  Course Schedule  |
 |---------|--------------|----------------|----------------------|-------------------|
-|    1    |  24 Aug 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lessons 1, 2    |
-|    2    |  31 Aug 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lessons 2, 3    |
-|    3    |  07 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lessons 3, 4    |
-|    4    |  14 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson  5       |
-|    5    |  21 Sep 2019 | 1.30pm-4.30pm  | SOE Seminar Room 4.1 |   Lesson  6       |
+|    1    |      TBA     |      TBA       |         TBA          |   Lessons 1, 2    |
+|    2    |      TBA     |      TBA       |         TBA          |   Lessons 2, 3    |
+|    3    |      TBA     |      TBA       |         TBA          |   Lessons 3, 4    |
+|    4    |      TBA     |      TBA       |         TBA          |   Lesson  5       |
+|    5    |      TBA     |      TBA       |         TBA          |   Lesson  6       |
 
 ## Course Outline
 For AY2020-2021, the course outline will be as follows:
