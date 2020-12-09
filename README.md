@@ -31,7 +31,7 @@ For AY2020-2021, the course outline will be as follows:
 2. Loops, Conditional Statements, Functions and Classes
 3. Data Processing, Cleaning and Manipulation with Pandas and NumPy
 4. Data Plotting with Seaborn and Matplotlib
-5. Algorithms
+5. APIs
 
 ## Programs
 For this workshop, you are required to install the Anaconda program. The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X, and contains useful tools and libraries for data manipulation purposes. 
