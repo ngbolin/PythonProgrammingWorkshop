@@ -6,6 +6,7 @@ Last Updated: 07 Jul 2020
 |   03 Jul 20  |       Updated the Jupyter Notebook for Lesson 3           |
 |   06 Jul 20  |       Updated the Jupyter Notebook for Lesson 4           |
 |   07 Jul 20  |       Updated the Jupyter Notebook for Lesson 5           |
+|   09 Dec 20  |       Updated the Schedule and Course Outline             |
 
 # SMU Masters of Science (Economics) Python Programming Workshop
 Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for Master of Science (Economics) students, in AY2020-2021. In this workshop, we will be going through fundamental programming concepts, aimed at helping students gain a basic understanding of programming for the MSc Economics course. 
@@ -16,13 +17,13 @@ If there are any problems with the code, please send an email to bolin.ng.2018@p
 Information will be dissected using the Github README, as well as through email. Please download this Github repository on your local computer - we will be using Jupyter Notebooks to read the files.
 
 ## Schedule for the Course
-| Lesson  |     Date     |     Time       |       Venue          |  Course Schedule  |
-|---------|--------------|----------------|----------------------|-------------------|
-|    1    |      TBA     |      TBA       |         TBA          |   Lessons 1, 2    |
-|    2    |      TBA     |      TBA       |         TBA          |   Lessons 2, 3    |
-|    3    |      TBA     |      TBA       |         TBA          |   Lessons 3, 4    |
-|    4    |      TBA     |      TBA       |         TBA          |   Lesson  5       |
-|    5    |      TBA     |      TBA       |         TBA          |   Lesson  6       |
+| Lesson  |     Date      |     Time        |       Venue          |  Course Schedule  |
+|---------|---------------|-----------------|----------------------|-------------------|
+|    1    |  28 Dec 2020  |   1900 - 2200   |      SOE SR B1-1     |     Lesson 1      |
+|    2    |  30 Dec 2020  |   1900 - 2200   |      SOE SR B1-1     |     Lesson 2      |
+|    3    |  04 Jan 2021  |   1900 - 2200   |      SOE SR B1-1     |     Lesson 3      |
+|    4    |  06 Jan 2021  |   1900 - 2200   |      SOE SR B1-1     |     Lesson 4      |
+|    5    |  08 Jan 2021  |   1900 - 2200   |      SOE SR B1-1     |     Lesson 5      |
 
 ## Course Outline
 For AY2020-2021, the course outline will be as follows:
