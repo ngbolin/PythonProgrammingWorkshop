@@ -6,7 +6,7 @@ Included in this repository are iPython notebooks, datasets, images and code wri
 If there are any problems with the code, please send an email to bolin.ng.2018@phdecons.smu.edu.sg
 
 ## Introduction to Python Programming
-Information will be dissected using the Github README, as well as through email. Please download this Github repository on your local computer - we will be using Jupyter Notebooks to read the files.
+Information will be disseminated using the Github README, as well as through email. Please download this Github repository on your local computer - we will be using Jupyter Notebooks to read the files.
 
 ## Schedule for the Course
 | Lesson  |     Date      |     Time        |       Venue          |  Course Schedule  |
