@@ -1,4 +1,4 @@
-Last Updated: 26 Feb 2021
+Last Updated: 06 Dec 2021
 
 # SMU Bachelor of Science (Economics) Python Programming Workshop
 Included in this repository are iPython notebooks, datasets, images and code written for the Python Programming workshop held in SMU for Bachelor of Science (Economics) students, in AY2020-2021. In this workshop, we will be going through fundamental programming concepts, aimed at helping students gain a basic understanding of programming. 
