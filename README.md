@@ -11,11 +11,11 @@ Information will be disseminated using the Github README, as well as through ema
 ## Schedule for the Course
 | Lesson  |     Date      |     Time        |       Venue          |  Course Schedule  |
 |---------|---------------|-----------------|----------------------|-------------------|
-|    1    |  01 Mar 2021  |   1300 - 1600   |      SOE SR 2.4      |     Lesson 1      |
-|    2    |  02 Mar 2021  |   1300 - 1600   |      SOE SR 2.4      |     Lesson 2      |
-|    3    |  03 Mar 2021  |   1300 - 1600   |      SOE SR 2.4      |     Lesson 3      |
-|    4    |  04 Mar 2021  |   1300 - 1600   |      SOE SR 2.4      |     Lesson 4      |
-|    5    |  05 Mar 2021  |   1300 - 1600   |      SOE SR 2.4      |     Lesson 5      |
+|    1    |  13 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 1      |
+|    2    |  14 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 2      |
+|    3    |  15 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 3      |
+|    4    |  16 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 4      |
+|    5    |  17 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 5      |
 
 ## Course Outline
 For AY2020-2021, the course outline will be as follows:
