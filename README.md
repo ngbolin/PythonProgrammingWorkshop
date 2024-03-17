@@ -11,19 +11,19 @@ Information will be disseminated using the Github README, as well as through ema
 ## Schedule for the Course
 | Lesson  |     Date      |     Time        |       Venue          |  Course Schedule  |
 |---------|---------------|-----------------|----------------------|-------------------|
-|    1    |  13 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 1      |
-|    2    |  14 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 2      |
-|    3    |  15 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 3      |
-|    4    |  16 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 4      |
-|    5    |  17 Dec 2021  |   1300 - 1600   |         Zoom         |     Lesson 5      |
+|    1    |  18 Mar 2024  |   1900 - 2130   |      SOE SR4-3       |     Lesson 1      |
+|    2    |  19 Mar 2024  |   1900 - 2130   |      SOE SR4-3       |     Lesson 2      |
+|    3    |  20 Mar 2024  |   1900 - 2130   |      SOE SR4-3       |     Lesson 3      |
+|    4    |  21 Mar 2024  |   1900 - 2130   |      SOE SR4-3       |     Lesson 4      |
+|    5    |  22 Mar 2024  |   1900 - 2130   |      SOE SR4-3       |     Lesson 5      |
 
 ## Course Outline
 For AY2020-2021, the course outline will be as follows:
 1. Introduction and Motivation, Syntax, Operations, Data Types and Data Structures
 2. Loops, Conditional Statements, Functions and Classes
-3. Data Processing, Cleaning and Manipulation with Pandas and NumPy
-4. Data Plotting with Seaborn and Matplotlib
-5. APIs
+3. Monte Carlo Simulations
+4. Data Processing, Cleaning and Manipulation with Pandas and NumPy
+5. Data Plotting with Seaborn and Matplotlib
 
 ## Programs
 For this workshop, you are required to install the Anaconda program. The open-source Anaconda Distribution is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X, and contains useful tools and libraries for data manipulation purposes. 
